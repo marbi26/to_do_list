@@ -2,7 +2,7 @@
 
 A beautiful to-do list app built with React.
 
-🔗 **Live Demo:** [https://marbi26.github.io/to_do_list](https://marbi26.github.io/to_do_list)
+🔗 **Live Demo:** [https://marbi26.github.io/to_do_list]
 
 ## Features
 - Add, complete & delete tasks
